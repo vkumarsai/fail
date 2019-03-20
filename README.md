@@ -1,2 +1,2 @@
 # fail
-fail repo
+fail repo for git commands demonstration
